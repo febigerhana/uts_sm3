@@ -1,0 +1,9 @@
+untuk login sebagai admin masuk dengan menggunakan akun
+username : user1@gmail.com
+password : user1
+
+nama database : uts_sm3
+silahkan buat database dengan nama diatas di phpmyadmin dan importkan database dari file ini.
+
+#open_source
+#happy_coding
